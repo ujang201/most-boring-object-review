@@ -1,0 +1,17 @@
+Write one funny, true one-line review (at most 200 characters) of the most
+boring everyday object I can name, for the make.fun bounty "The Most Boring
+Object, Reviewed in One Line".
+
+Pick an object that is genuinely boring and everyday — not a rubber band, a
+doorstop, or a tea towel, since the bounty text itself names those and every
+other entry will reach for them. The coaster is my pick: it does exactly one
+thankless job, sitting under a mug catching the wet ring, and nobody ever
+notices it until it is missing.
+
+The line must be funny because of a real, recognisable detail of the object,
+not a joke that would fit anything. The turn should come early and the last
+words should sharpen it. Make the object's own dullness the joke: a lifetime
+of service, thanked never.
+
+Output: the program writes the single line to /output/entry.txt, no trailing
+newline, 1–200 characters, one line only.
